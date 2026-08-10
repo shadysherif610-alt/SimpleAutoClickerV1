@@ -51,3 +51,11 @@ Use the auto-clicker responsibly. Some games, applications, or services may proh
 ## License
 
 MIT License
+
+## Contact 
+
+shadysherif610@gmail.com send any questions here.
+
+## Discord 
+
+shady867
